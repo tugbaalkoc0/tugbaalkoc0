@@ -9,8 +9,8 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- ![Java](https://images.seeklogo.com/logo-png/15/1/java-logo-png_seeklogo-158094.png)
-- ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+- ![Java]
+- ![Python]
 - IntelliJ IDEA
 - Git & GitHub
 - UML & Class Diagrams
