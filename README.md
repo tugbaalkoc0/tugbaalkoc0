@@ -9,8 +9,8 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- ![Java]
-- ![Python]
+- Java
+- Python
 - IntelliJ IDEA
 - Git & GitHub
 - UML & Class Diagrams
